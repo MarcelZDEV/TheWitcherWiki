@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{% block title %}home{% endblock %}</title>
+    <title>home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="col-12 container">
@@ -13,11 +13,9 @@
         <button class="button black-button col-4" href="wiki.html">wiki</button>
         <button class="button black-button col-4">about</button>
     </header>
-    {% block content %}
-        <section class="col-12">
-            <header class="center text-header">nice to read</header>
-        </section>
-    {% endblock %}
+    <section class="col-12">
+        <header class="center text-header">nice to read</header>
+    </section>
 </div>
 </body>
 </html>
