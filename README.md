@@ -1,3 +1,3 @@
 # TheWitcherWiki
 
-the wither wiki site
+the witcher wiki site
