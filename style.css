@@ -90,3 +90,17 @@
 .text-header {
     font-size: 20px;
 }
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.black-text {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
